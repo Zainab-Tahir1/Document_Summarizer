@@ -1,0 +1,11 @@
+transformers
+peft
+sentence-transformers
+faiss-cpu
+pandas
+fastapi
+uvicorn
+torch
+streamlit
+PyPDF2
+langchain
